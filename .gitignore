@@ -1,3 +1,4 @@
 #removing
 
 node_modules/*
+.yarn/*
