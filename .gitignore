@@ -1,5 +1,6 @@
 #removing
 
 node_modules/*
+.vscode/*
 .yarn/*
 .eslintrc.json
